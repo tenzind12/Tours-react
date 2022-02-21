@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tours-react/static/css/main.d2be02af.chunk.css",
+    "main.js": "/Tours-react/static/js/main.3ecbf31b.chunk.js",
+    "main.js.map": "/Tours-react/static/js/main.3ecbf31b.chunk.js.map",
+    "runtime-main.js": "/Tours-react/static/js/runtime-main.0b315f82.js",
+    "runtime-main.js.map": "/Tours-react/static/js/runtime-main.0b315f82.js.map",
+    "static/js/2.2d7c86c6.chunk.js": "/Tours-react/static/js/2.2d7c86c6.chunk.js",
+    "static/js/2.2d7c86c6.chunk.js.map": "/Tours-react/static/js/2.2d7c86c6.chunk.js.map",
+    "index.html": "/Tours-react/index.html",
+    "precache-manifest.0c269e7db15c3524cd62c7b50d083e25.js": "/Tours-react/precache-manifest.0c269e7db15c3524cd62c7b50d083e25.js",
+    "service-worker.js": "/Tours-react/service-worker.js",
+    "static/css/main.d2be02af.chunk.css.map": "/Tours-react/static/css/main.d2be02af.chunk.css.map",
+    "static/js/2.2d7c86c6.chunk.js.LICENSE.txt": "/Tours-react/static/js/2.2d7c86c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b315f82.js",
+    "static/js/2.2d7c86c6.chunk.js",
+    "static/css/main.d2be02af.chunk.css",
+    "static/js/main.3ecbf31b.chunk.js"
+  ]
+}
